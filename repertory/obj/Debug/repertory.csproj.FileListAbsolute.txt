@@ -1,0 +1,44 @@
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\bin\Debug\repertory.exe.config
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\bin\Debug\repertory.exe
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\bin\Debug\repertory.pdb
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\obj\Debug\repertory.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\obj\Debug\repertory_MarkupCompile.cache
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\obj\Debug\repertory_MarkupCompile.lref
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\obj\Debug\repertory.g.resources
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\obj\Debug\repertory.Properties.Resources.resources
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\obj\Debug\repertory.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\obj\Debug\repertory.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\obj\Debug\repertory.exe
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\obj\Debug\repertory.pdb
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\obj\Debug\Views\login.g.cs
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\obj\Debug\Views\login.baml
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\obj\Debug\Views\profil.g.cs
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\obj\Debug\Views\profil.baml
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\obj\Debug\Views\AddContact.g.cs
+C:\Users\Dell\Desktop\Module 4\repertory\repertory\obj\Debug\Views\AddContact.baml
+C:\Users\Dell\source\repos\newrepertory\repertory\bin\Debug\repertory.exe.config
+C:\Users\Dell\source\repos\newrepertory\repertory\bin\Debug\repertory.exe
+C:\Users\Dell\source\repos\newrepertory\repertory\bin\Debug\repertory.pdb
+C:\Users\Dell\source\repos\newrepertory\repertory\obj\Debug\repertory.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\newrepertory\repertory\obj\Debug\Views\AddContact.g.cs
+C:\Users\Dell\source\repos\newrepertory\repertory\obj\Debug\Views\login.g.cs
+C:\Users\Dell\source\repos\newrepertory\repertory\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\source\repos\newrepertory\repertory\obj\Debug\Views\profil.g.cs
+C:\Users\Dell\source\repos\newrepertory\repertory\obj\Debug\App.g.cs
+C:\Users\Dell\source\repos\newrepertory\repertory\obj\Debug\repertory_MarkupCompile.cache
+C:\Users\Dell\source\repos\newrepertory\repertory\obj\Debug\repertory_MarkupCompile.lref
+C:\Users\Dell\source\repos\newrepertory\repertory\obj\Debug\Views\AddContact.baml
+C:\Users\Dell\source\repos\newrepertory\repertory\obj\Debug\Views\login.baml
+C:\Users\Dell\source\repos\newrepertory\repertory\obj\Debug\MainWindow.baml
+C:\Users\Dell\source\repos\newrepertory\repertory\obj\Debug\Views\profil.baml
+C:\Users\Dell\source\repos\newrepertory\repertory\obj\Debug\repertory.g.resources
+C:\Users\Dell\source\repos\newrepertory\repertory\obj\Debug\repertory.Properties.Resources.resources
+C:\Users\Dell\source\repos\newrepertory\repertory\obj\Debug\repertory.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\newrepertory\repertory\obj\Debug\repertory.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\newrepertory\repertory\obj\Debug\repertory.exe
+C:\Users\Dell\source\repos\newrepertory\repertory\obj\Debug\repertory.pdb
+C:\Users\Dell\source\repos\newrepertory\repertory\obj\Debug\Views\ListContact.g.cs
+C:\Users\Dell\source\repos\newrepertory\repertory\obj\Debug\Views\ListContact.baml

@@ -1,0 +1,32 @@
+﻿<Window x:Class="repertory.Views.AddContact"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:repertory.Views"
+        mc:Ignorable="d"
+        Title="Ajout d'un contact" Height="600" Width="800">
+    <Grid Background="Beige">
+        <TextBlock TextWrapping="Wrap" Text="Ajout d'un contact" TextAlignment="Center" FontSize="24" FontWeight="Bold" FontFamily="Kalinga" Margin="240,10,232,500" Foreground="Black"/>
+        <Label Height="34" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Nom du contact" FontSize="18" Margin="195,121,407,415" Foreground="White" Background="Black" Width="190" />
+        <TextBox x:Name="textboxLastname" Margin="435,121,172,415"/>
+        <TextBlock x:Name="TextBlockLastnameErrorMessage" Text="" Margin="195,160,232,375" Foreground="OrangeRed" />
+
+        <Label Height="34" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Prénom du contact" FontSize="18" Margin="195,200,407,336" Foreground="White" Width="190" Background="Black" />
+        <TextBox x:Name="textboxFirstname" Margin="435,200,172,335"/>
+        <TextBlock x:Name="TextBlockFirstnameErrorMessage" Margin="195,243,232,302" Foreground="OrangeRed"/>
+
+        <Label Height="40" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Adresse mail" FontSize="18" Margin="195,273,407,257" Foreground="White" Width="190" Background="Black" />
+        <TextBox x:Name="textboxMail" Margin="435,274,172,257"/>
+        <TextBlock x:Name="TextBlockMailErrorMessage" Margin="195,318,232,220" Foreground="OrangeRed"/>
+
+        <Label Height="33" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Numéro de téléphone" FontSize="18" Margin="195,355,407,182" Foreground="#FFFFEEEE" Background="Black" Width="190" />
+        <TextBox x:Name="textboxPhoneNumber" Margin="435,350,172,182"/>
+        <TextBlock x:Name="TextBlockPhoneNumberErrorMessage" Margin="195,415,232,125" Foreground="OrangeRed" />
+
+        <Label Height="35" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Adresse postale" FontSize="18" Margin="195,445,407,90" Foreground="White" Background="Black" Width="190" />
+        <TextBox x:Name="textboxAddress" Margin="435,445,172,90"/>
+        <TextBlock x:Name="TextBlockAddressErrorMessage" Margin="195,480,234,55" Foreground="Red"/>
+        <Button x:Name="btnAddContact" Content="Ajout du contact" Margin="305,515,297,13" Foreground="White" Click="BtnAddContact_Click" Background="#FF683B60" FontSize="18" />
+    </Grid>
+</Window>

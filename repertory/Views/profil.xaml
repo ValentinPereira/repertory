@@ -1,0 +1,22 @@
+﻿<Window x:Class="repertory.Views.profil"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:repertory.Views"
+        mc:Ignorable="d"
+        Title="profil" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid Background="Beige" Margin="0,0,-8,0">
+        <TextBlock x:Name="textblockTitle" Text="Bienvenue Username" Foreground="White" FontSize="24" TextAlignment="Center" Margin="300,10,265,370" Background="Black"/>
+        <Label Height="27" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Nom :" FontSize="15"  Foreground="Black" Margin="300,105,444,288" Width="56" />
+        <TextBlock x:Name="textblockLastname" Text="Nom" Foreground="Black" FontSize="15" TextAlignment="Center" Margin="481,105,203,288" />
+        <Label Height="33" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Prénom :" FontSize="15" Foreground="Black" Margin="300,152,431,235" />
+        <TextBlock x:Name="textblockFirstname"  Text="Prenom" Foreground="Black" FontSize="15" TextAlignment="Center" Margin="498,152,203,242" RenderTransformOrigin="0.097,0.143" />
+        <Label Height="30" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Nom Utilisateur :" FontSize="15" FontFamily="Trebuchet MS"  Foreground="Black" Margin="300,205,363,185" Width="137" />
+        <TextBlock x:Name="textblockUsername" Text="Nom Utilisateur" Foreground="Black" FontSize="15" TextAlignment="Center" Margin="498,205,167,185" />
+        <Label Height="32" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Adresse mail :" FontSize="15" FontFamily="Trebuchet MS"  Foreground="Black" Margin="300,255,383,133" Width="117" />
+        <TextBlock x:Name="textblockMail" Text="mail" Foreground="Black" FontSize="15" TextAlignment="Center" Margin="460,255,132,140" RenderTransformOrigin="0.299,0.44" />
+        <Button x:Name="btnAddContact" Content="Ajout d'un contact" Margin="216,338,408,37" Click="BtnAddContact_Click" Background="#FFFFEC76"/>
+        <Button x:Name="btnListContact" Content="Listes des contacts" Margin="460,338,164,37" Background="#FFCDF7AA" Click="BtnListContact_Click"/>
+    </Grid>
+</Window>
